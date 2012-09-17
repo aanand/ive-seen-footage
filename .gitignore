@@ -1,5 +1,5 @@
-/audio
-/images
+/audio/*
+/images/*
 /tmp
 out.mp4
 
